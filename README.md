@@ -1,3 +1,5 @@
-Manuel likes to  work on complex problems, cycle, sample old soul tunes, camp in the wild, play with his kids, try new recipes, run fix things,... and yeah code (that's why we're here, right?).
-He's currently mostly interested in iOS development. But sometimes he does a bit of Android or Node.js, or just plain old C.
-He writes about himself in the 3rd person.
+Hey there!
+I'm Manuel. I'm an iOS engineer. I haven't put a lot of stuff on GitHub because I always found myself working on Bitbucket repos but I'm starting to add a couple things on here.
+When I'm not making iOS app, I run, bike, play with my 2 kids. I also make beats from time to time.
+If you want to say, your best bet is my [twitter](https://www.themoviedb.org/).
+
